@@ -4,7 +4,7 @@
 <head>
     <form action="http://www.basit.com">
     <meta charset="UTF-8">
-    <title>contact</title>
+    <title>front color</title>
     
     <style>
         /* page background*/
